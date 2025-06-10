@@ -1,4 +1,4 @@
-# CONTEXT-AWARE-COUPON-ACCEPTANCE-PREDICTION
+# PREDICTING IN-VEHICLE COUPON ACCEPTANCE TO DRIVE TARGETED PROMOTIONS
 
 *Transforming offers into opportunities, driving customer engagement.*
 
@@ -60,3 +60,8 @@ To run this project:
 ```bash
 jupyter notebook
 ```
+
+
+## Model Performance
+
+The model was trained using supervised classification techniques to predict whether a passenger would accept a given coupon. 
